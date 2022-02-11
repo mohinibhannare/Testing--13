@@ -26,6 +26,12 @@ public class DEMO1
 		System.out.println("This is m4 method of DEMO1 class ");
 	}
 	
+	public void m5() 
+	{
+		System.out.println("This is m5 method of DEMO1 class ");
+	}
+	
+	
 	
 	
 	
