@@ -21,6 +21,15 @@ public class DEMO1
 		System.out.println("This is m3 method of DEMO1 class ");
 	}
 	
+	public void m4() 
+	{
+		System.out.println("This is m4 method of DEMO1 class ");
+	}
+	
+	
+	
+	
+	
 	
 		public static void main(String[] args) {
 		
