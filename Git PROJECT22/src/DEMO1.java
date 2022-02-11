@@ -29,6 +29,10 @@ public class DEMO1
 		DEMO1 dd=new DEMO1();
 		dd.m1();
 		dd.m2();
+			
+		DEMO1 dd2=new DEMO1();	
+			dd2.m3();
+			
 		
 	}
 
