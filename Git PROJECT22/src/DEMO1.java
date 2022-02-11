@@ -9,7 +9,13 @@ public class DEMO1
 		System.out.println("This is m1 method of DEMO1 class ");
 	}
 	
-	public static void main(String[] args) {
+	
+	public void m2() 
+	{
+		System.out.println("This is m1 method of DEMO1 class ");
+	}
+	
+		public static void main(String[] args) {
 		
 		
 		
