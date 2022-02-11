@@ -21,12 +21,11 @@ public class DEMO1
 		System.out.println("This is m3 method of DEMO1 class ");
 	}
 	
-	public void m4() 
+	
+	public void mymethod() 
 	{
-		System.out.println("This is m4 method of DEMO1 class ");
+		System.out.println("This is mymethod  of DEMO1 class ");
 	}
-	
-	
 	
 	
 	
